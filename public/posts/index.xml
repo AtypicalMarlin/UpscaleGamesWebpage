@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on UpScale Games</title>
+    <link>http://UpScaleGames.com/posts/</link>
+    <description>Recent content in Posts on UpScale Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Dec 2023 20:01:02 -0600</lastBuildDate><atom:link href="http://UpScaleGames.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Target Is Great</title>
+      <link>http://UpScaleGames.com/posts/second-page/</link>
+      <pubDate>Mon, 11 Dec 2023 20:01:02 -0600</pubDate>
+      
+      <guid>http://UpScaleGames.com/posts/second-page/</guid>
+      <description>Pork turducken pork loin porchetta doner kielbasa biltong, short ribs jerky t-bone tail tenderloin. Ham short loin beef flank pork belly, biltong jowl boudin kevin pork tenderloin. Ham pancetta turducken flank salami frankfurter shoulder biltong. Doner capicola shank shankle swine pastrami sausage andouille sirloin prosciutto pork loin. Jerky boudin kielbasa hamburger chicken sausage cupim shankle. Spare ribs strip steak pastrami flank jerky corned beef cow pork belly bacon pork loin fatback short loin shankle salami.</description>
+    </item>
+    
+    <item>
+      <title>Bacon</title>
+      <link>http://UpScaleGames.com/posts/first-page/</link>
+      <pubDate>Mon, 11 Dec 2023 20:00:09 -0600</pubDate>
+      
+      <guid>http://UpScaleGames.com/posts/first-page/</guid>
+      <description>Bacon ipsum dolor amet andouille porchetta kielbasa filet mignon tri-tip kevin. Leberkas hamburger kielbasa bresaola boudin salami alcatra flank filet mignon porchetta. Flank ball tip chuck shoulder ham hock corned beef shankle porchetta. Drumstick ham hock beef, pastrami pancetta bresaola chicken short loin shank cow. Rump buffalo bacon meatball ground round, pig chuck meatloaf ball tip. Porchetta bresaola pork belly pork picanha swine ham hock turducken pancetta pork loin. Ball tip boudin kevin, strip steak chicken ham hock turkey swine burgdoggen beef ribs.</description>
+    </item>
+    
+  </channel>
+</rss>

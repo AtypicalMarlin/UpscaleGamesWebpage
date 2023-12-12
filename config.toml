@@ -1,0 +1,4 @@
+baseURL = 'http://UpScaleGames.com'
+languageCode = 'en-us'
+title = 'UpScale Games'
+theme = "ananke"
